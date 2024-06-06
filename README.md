@@ -23,4 +23,4 @@
 • Support Vector Regressor
 
 ## Task 5
-###Classification and clustering
+### Classification and clustering
