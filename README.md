@@ -12,4 +12,15 @@
 • Feature Scaling
 
 ## task 3
-### Hypothesis Testing
+### Hypothesis Testing:
+
+## task 4
+### Regression:
+• Linear Regression
+• Decision Tree Regressor
+• Random Forest Regressor
+• Gradient Boosting Regressor
+• Support Vector Regressor
+
+## task 5
+###Classification and clustering
